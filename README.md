@@ -1,6 +1,6 @@
-# first_app
+# Ecommerce UI
 
-A new Flutter project.
+A new Flutter Ecommerce UI project.
 
 ## Getting Started
 
